@@ -26,3 +26,6 @@ while True:
         print(f"Valio spejimu skaicius {counter}")
 
         break
+
+
+labas = "katu"
